@@ -1,22 +1,14 @@
-# CMPT315 Lab2
-In this lab we are exploring node.js and javascript
+# CMPT 315 Lab 2
+This lab explores the use of npm
 
-## Purpose
+## Puporse
 
-**_BEWARE:_ This library was published for learning purposes. It is _not_ intended to be published for widespread use.
-
+**_BEWARE:_ This library was published for learning purposes. It is _not_ in Describe the intended intent
 ## Usage
 **Install it:**
-`npm install @username/<project-title>`
+`npm install @n4ncy/lab2`
 **Require it:**
-`const _ = require('@username/<project-title>');`
-**Call it:**
-`const results = _.firstFunction()`
+`const _ = require('@n4ncy/lab2');` **Call it:**
+
 ## Documentation
 The following functions are currently implemented:
-* `function1(...)`: description
-* `function2(...)`: description
-* `function3(...)`: description
-
-Replace @username with your npm username.
-Update the documentation section with your actual functions.

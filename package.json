@@ -1,0 +1,18 @@
+{
+  "name": "lab2",
+  "version": "1.0.0",
+  "description": "\"A lab to explore the use of npm, a package manager for JS\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/nn4ncyy/CMPT315Lab2.git) https://github.com/nn4ncyy/CMPT315Lab2.git"
+  },
+  "keywords": [
+    "CMPTLab2"
+  ],
+  "author": "Nancy Dinh",
+  "license": "ISC"
+}
